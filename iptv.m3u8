@@ -67,6 +67,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png" group-title="BANGLA",Star Jalsha HD
 https://edge2.roarzone.info:8443/roarzone/bk/30/index.m3u8?token=560284da5f2e50c834ed9b905a2b6875ba713046-7668f5589f8ab3617e00d6d381da4308-1767388642-1767385042
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png" group-title="BANGLA",Star Jalsha
+https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/69/Jalsha_Movies_HD_alt.png/revision/latest?cb=20210611104218" group-title="BANGLA",Jalsha Movies HD
 https://edge2.roarzone.info:8443/roarzone/bk/31/index.m3u8?token=547e37102563555891cf84d2bda54cb9e9bf0022-b251f3599c7084ad75ea918fff3a8ee0-1767388642-1767385042
 
