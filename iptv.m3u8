@@ -37,6 +37,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1200px-Logo_of_ATN_Bangla.svg.png",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png",ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
