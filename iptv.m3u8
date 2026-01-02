@@ -4,6 +4,9 @@
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/396px-BTV_News_Logo.png",BTV News
+https://www.btvlive.gov.bd/live/undefined/US/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
