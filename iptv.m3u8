@@ -85,8 +85,11 @@ https://edge2.roarzone.info:8443/roarzone/bk/33/index.m3u8?token=2600a5fd79c9a30
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyTiuRI_Af19f0S6QyechskiKc566vF4NHzA&s" group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLA",DurontoTV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
 
 
 
