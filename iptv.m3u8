@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png",BTV Chattogram
 https://www.btvlive.gov.bd/live/undefined/US/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/396px-BTV_News_Logo.png",BTV News
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/396px-BTV_News_Logo.png",BTV News HD
 https://www.btvlive.gov.bd/live/undefined/US/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png",Sangsad BD TV
@@ -19,7 +19,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png",Ekattor TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Logo_of_Channel_24_%28Bangladesh%29.svg/1200px-Logo_of_Channel_24_%28Bangladesh%29.svg.png",Channel 24
@@ -58,20 +58,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png",Star Jalsha HD
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/30.png" group-title="BANGLA",Star Jalsha
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Star_Jalsha_HD_with_slogan_%282011%29.png" group-title="BANGLA",Star Jalsha HD
 https://edge2.roarzone.info:8443/roarzone/bk/30/index.m3u8?token=560284da5f2e50c834ed9b905a2b6875ba713046-7668f5589f8ab3617e00d6d381da4308-1767388642-1767385042
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/31.png" group-title="BANGLA",Star Jalsha Movies
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/31.png" group-title="BANGLA",Jalsha Movies
 https://edge2.roarzone.info:8443/roarzone/bk/31/index.m3u8?token=547e37102563555891cf84d2bda54cb9e9bf0022-b251f3599c7084ad75ea918fff3a8ee0-1767388642-1767385042
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/34.png" group-title="BANGLA",Zee Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="BANGLA",Zee Bangla HD
 https://edge2.roarzone.info:8443/roarzone/bk/34/index.m3u8?token=0dd4990b0ac118797a5a63b4a06459d1b9f9a6f9-3b14bf2df1cd57b1a5a85de49484708c-1767388642-1767385042
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/29.png" group-title="BANGLA",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/29.png" group-title="BANGLA",Zee Bangla Sonar
 https://edge2.roarzone.info:8443/roarzone/bk/29/index.m3u8?token=5c76419b7b7658ef4a4008dafe51cb4493d6ef07-d92b324564cf90bf0faaba77ecc9689a-1767388642-1767385042
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/66.png" group-title="BANGLA",Colors Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="BANGLA",Colors Bangla HD
 https://edge2.roarzone.info:8443/roarzone/bk/66/index.m3u8?token=92b86cd6e4dd63821d077be57031d04db179e000-490185ed16d9f68a37ed128f337b29bd-1767388642-1767385042
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/33.png" group-title="BANGLA",Sony Aath
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sony_AATH_Logo_%282022%29.png" group-title="BANGLA",Sony Aath
 https://edge2.roarzone.info:8443/roarzone/bk/33/index.m3u8?token=2600a5fd79c9a30f45a03d0e8e5092dcd99de972-ab15822f6cbf40ea99fbdfed6d35e631-1767388642-1767385042
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
