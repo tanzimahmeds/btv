@@ -13,9 +13,6 @@ https://www.btvlive.gov.bd/live/undefined/US/d96eb7f4-83c2-4472-9597-3568390a8eb
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png",Sangsad BD TV
 https://www.btvlive.gov.bd/live/undefined/US/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
@@ -75,6 +72,9 @@ https://edge2.roarzone.info:8443/roarzone/bk/66/index.m3u8?token=92b86cd6e4dd638
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_AATH_Logo_%282022%29.png/250px-Sony_AATH_Logo_%282022%29.png" group-title="BANGLA",Sony Aath
 https://edge2.roarzone.info:8443/roarzone/bk/33/index.m3u8?token=2600a5fd79c9a30f45a03d0e8e5092dcd99de972-ab15822f6cbf40ea99fbdfed6d35e631-1767388642-1767385042
+
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
