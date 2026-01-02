@@ -49,6 +49,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/500px-Rtv_bangladesh.svg.png",RTV
+https://edge2.roarzone.info:8443/roarzone/bk/14/index.m3u8?token=9de08186ee8c13cd2e888683958da418b9dd2b33-7cde2060e95783354eaf80ef35c7e40f-1767388642-1767385042
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Logo_of_Deepto_TV.svg/960px-Logo_of_Deepto_TV.svg.png",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
