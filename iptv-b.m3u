@@ -470,10 +470,77 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKE
 http://84.17.40.25/FXX/index.m3u8
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/hbox.png" group-title="Tanzim",HBO Xtreme
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKHCG5GcdchvUWeUuQSMNI63/ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQC0d8X/kbsw.jpg",KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tQC0d8X/kbsw.jpg",KBS WORLD
-http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
-#EXTINF:-1,KBS WORLD HD
-https://swissbern1-1-dash-live.zahs.tv/HD_kbs_world/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBWHA2EENKEGVATINBZGY3DQLJTGRBTIMBYG4YTIQJRIZBDAQ2CEZWWC6DSMF2GKPJVGAYDEJTNNFXHEYLUMU6TMMBQEZZWSZZ5GE2F6YLDGZRGEOBUMFQWKOLGGU4DINDBHBRGKYZWGBRDMNTDGBSDSYLBEZ2GS3LFONUGSZTUHUYTAOBQGATHK43FOJPWSZB5GEZTONJUGAYTKMZGOY6TA
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt1-se.png" group-title="Sweden",SVT1 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/45957
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 FHD SE" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/svt2-se.png" group-title="Sweden",SVT2 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/46184
+#EXTINF:-1 tvg-id="svtb.se" tvg-name="SVT Barn FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt-barn-se.png" group-title="Sweden",SVT Barn FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/96946
+#EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="SVT Kunskapskanalen FHD SE" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/kunskapskanalen-se.png" group-title="Sweden",SVT Kunskapskanalen FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/13258
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv3-se.png" group-title="Sweden",TV3 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/11924
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-se.png" group-title="Sweden",TV4 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/46499
+#EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="TV4 Fakta HD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-fakta-se.png" group-title="Sweden",TV4 Fakta HD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/8234
+#EXTINF:-1 tvg-id="tv4film.se" tvg-name="TV4 Film HD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-film-se.png" group-title="Sweden",TV4 Film HD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/8166
+#EXTINF:-1 tvg-id="tv4guld.se" tvg-name="TV4 Guld HD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-guld-se.png" group-title="Sweden",TV4 Guld HD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/8161
+#EXTINF:-1 tvg-id="tv4hits.se" tvg-name="TV4 Hits FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-hits-se.png" group-title="Sweden",TV4 Hits FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/46256
+#EXTINF:-1 tvg-id="tv4stars.se" tvg-name="TV4 Stars FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-stars-se.png" group-title="Sweden",TV4 Stars FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/46259
+#EXTINF:-1 tvg-id="tv4sportkanalen.se" tvg-name="TV4 Sportkanalen FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-sportkanalen-se.png" group-title="Sweden",TV4 Sportkanalen FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/22889
+#EXTINF:-1 tvg-id="tv4fotboll.se" tvg-name="TV4 Fotboll FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-fotboll-se.png" group-title="Sweden",TV4 Fotboll FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9621
+#EXTINF:-1 tvg-id="tv4hockey.se" tvg-name="TV4 Hockey FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-hockey-se.png" group-title="Sweden",TV4 Hockey FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9617
+#EXTINF:-1 tvg-id="tv4motor.se" tvg-name="TV4 Motor FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-motor-se.png" group-title="Sweden",TV4 Motor FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/33847
+#EXTINF:-1 tvg-id="tv4tennis.se" tvg-name="TV4 Tennis FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-tennis-se.png" group-title="Sweden",TV4 Tennis FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/644116
+#EXTINF:-1 tvg-id="tv4sportlive.se" tvg-name="TV4 Sport Live FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-sport-live-1-se.png" group-title="Sweden",TV4 Sport Live FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9615
+#EXTINF:-1 tvg-id="tv4sportlive2.se" tvg-name="TV4 Sport Live 2 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-sport-live-2-se.png" group-title="Sweden",TV4 Sport Live 2 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/16377
+#EXTINF:-1 tvg-id="tv4sportlive3.se" tvg-name="TV4 Sport Live 3 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-sport-live-3-se.png" group-title="Sweden",TV4 Sport Live 3 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9613
+#EXTINF:-1 tvg-id="tv4sportlive4.se" tvg-name="TV4 Sport Live 4 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-sport-live-4-se.png" group-title="Sweden",TV4 Sport Live 4 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9612
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 FHD SE" tvg-logo="https://i.ibb.co/TKQ7t35/Kanal5nylogga.png" group-title="Sweden",Kanal 5 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/11622
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv6-se.png" group-title="Sweden",TV6 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9641
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/sjuan-se.png" group-title="Sweden",Sjuan FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/11927
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv8-se.png" group-title="Sweden",TV8 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9640
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 FHD SE" tvg-logo="https://i.ibb.co/f0z9R7t/Kanal9nylogga.png" group-title="Sweden",Kanal 9 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/11623
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv10-se.png" group-title="Sweden",TV10 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/16914
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 FHD SE" tvg-logo="https://i.ibb.co/qrcVsJ2/Kanal-11-Logo-2024-svg.png" group-title="Sweden",Kanal 11 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/11926
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv12-se.png" group-title="Sweden",TV12 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/9637
+#EXTINF:-1 tvg-id="skyshowtime1.se" tvg-name="Sky ShowTime 1 FHD SE" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/sky-showtime-1-se.png" group-title="Sweden",Sky ShowTime 1 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/236926
+#EXTINF:-1 tvg-id="skyshowtime2.se" tvg-name="Sky ShowTime 2 FHD SE" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/sky-showtime-2-se.png" group-title="Sweden",Sky ShowTime 2 FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/236923
+#EXTINF:-1 tvg-id="sfkanalen.se" tvg-name="SF-Kanalen FHD SE" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/SF-Kanalen.png" group-title="Sweden",SF-Kanalen FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/335919
 
+#EXTINF:-1 tvg-id="" tvg-name="MTV Aitio HD SE [Multi-Sub]" tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/logos/MTV_Aitio_Logo_2compressed.svg.png" group-title="Sweden",MTV Aitio HD SE [Multi-Sub]
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/46257
+
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play The Simpsons FHD SE" tvg-logo="https://i.ibb.co/xtXv2YNg/The-Simpsons.png" group-title="Sweden",N1 Play The Simpsons FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/1154314
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play Family Guy FHD SE" tvg-logo="https://i.ibb.co/WBwtbph/Family-Guy.png" group-title="Sweden",N1 Play Family Guy FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/1159377
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play Rick and Morty FHD SE" tvg-logo="https://i.ibb.co/5M7CdNR/Rick-and-Morty.png" group-title="Sweden",N1 Play Rick and Morty FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/1159369
+#EXTINF:-1 tvg-id="" tvg-name="N1 Play South Park FHD SE" tvg-logo="https://i.ibb.co/WpNVzn1/South-Park.png" group-title="Sweden",N1 Play South Park FHD SE
+http://91.218.51.169:2095/yNR9xHms/gFajQaj/1000091
