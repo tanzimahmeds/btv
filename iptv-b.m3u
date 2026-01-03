@@ -48,7 +48,7 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-zlfJ6OWZnCwzhTp3QREuJx
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-2J-p-RpQAta5ZE9Qktw5bCCgRll1Q_-thYFsgoKhQCE/ts
 #EXTINF:-1 xui-id="388" tvg-id="" tvg-name="NEXUS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BD | Bangla",NEXUS TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-zgS9O0G2Q9anNL-4FvoAUfITu0J3KtdEf7m6E5vQYcQ/ts
-#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="MOVIE BANGLA" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png" group-title="BD | Bangla",MOVIE BANGLA
+#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="MOVIE BANGLA" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo.png" group-title="BD | Bangla",MOVIE BANGLA TV
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-0PIGnM2eT0XLauUg-6MGAswFIieZmPYVwnZ9bpJsRZF/ts
 #EXTINF:-1 xui-id="393" tvg-id="" tvg-name="ANANDA TV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Ananda_TV.png/revision/latest?cb=20231121105055" group-title="BD | Bangla",ANANDA TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-xWx99zZzrmHgwo5NemCGcoKm_rM7bIyC_DTtYYsTGi3/ts
@@ -56,17 +56,17 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-xWx99zZzrmHgwo5NemCGco
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-6TIFIS9btE_Bh0py2oGgOK4C2oG877llRjyKptwgu7W/ts
 #EXTINF:-1 xui-id="396" tvg-id="" tvg-name="MOHONA TV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/ba/Mohona_TV_logo_2010.png/revision/latest/scale-to-width-down/200?cb=20231121085406" group-title="BD | Bangla",MOHONA TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-9c_7DdXH0-ueOK1NGsfG9aln-r_5ALWHNvuSoUq1ttW/ts
-#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="BIJOY TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bijoy-tv-bd.png" group-title="BD | Bangla",BIJOY TV HD
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="BIJOY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/1200px-Logo_of_Bijoy_TV.svg.png" group-title="BD | Bangla",BIJOY TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--GYVOQ969gsyL-0YU3K_dQYnOPxNVC-fIQeL8AqFraQ/ts
-#EXTINF:-1 xui-id="966" tvg-id="Nat Geo Wild HD.in" tvg-name="NAT GEO BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="BD | Bangla",NAT GEO BANGLA
+#EXTINF:-1 xui-id="966" tvg-id="Nat Geo Wild HD.in" tvg-name="NAT GEO BANGLA" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/natgeo.png" group-title="BD | Bangla",NAT GEO BANGLA
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-0lFw3xWRlR_6pD8tAmTv5iJFHTH9dr0BT0GolTnAG-e/ts
-#EXTINF:-1 xui-id="145383" tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O1ejjJKEgkoqRJwQLvM0GG2XTriUykfKVw&s" group-title="BD | Bangla",DISCOVERY BANGLA
+#EXTINF:-1 xui-id="145383" tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://github.com/tanzimahmeds/btv/blob/main/dis.logo%20final.02.png?raw=true" group-title="BD | Bangla",DISCOVERY BANGLA
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1HVasrNuNMJPRBMopHBtrSX7aimTY37zp-ZLYMR1PZd/ts
 #EXTINF:-1 xui-id="404" tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="IN: SONY SPORTS TEN 1 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzsobJyEHRvk5_0jS7-8PmLRg.png" group-title="IN/PK | Sports",IN: SONY SPORTS TEN 1 HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-zKfHNhzZEWkzbegLPZZZrONGki3xjQwGcgHJxCUqSd7/ts
 #EXTINF:-1 xui-id="407" tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="IN: SONY SPORTS TEN 5 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzs7x3uGjg0lWGA_MyLBmqcFg.png" group-title="IN/PK | Sports",IN: SONY SPORTS TEN 5 HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-wcdNutpgTE-hQYTSPM2_0Ha30OLi7vDnCtR_PqrmUPO/ts
-#EXTINF:-1 xui-id="398" tvg-id="Star Sports 1 HD.in" tvg-name="IN: STAR SPORTS 1  HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdS3a6MkJkHC4ExFqCL0FTJDsZAzSWAETtoWZ3ZL8mzhw.png" group-title="Sports | Asian",IN: STAR SPORTS 1  HD
+#EXTINF:-1 xui-id="398" tvg-id="Star Sports 1 HD.in" tvg-name="IN: STAR SPORTS 1  HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdS3a6MkJkHC4ExFqCL0FTJDsZAzSWAETtoWZ3ZL8mzhw.png" group-title="IN/PK | Sports",IN: STAR SPORTS 1  HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-9TWRNH-oFfnsjeWeI7OJBbG_R8bqtd7cgvFEvJRAH7Y/ts
 #EXTINF:-1 xui-id="399" tvg-id="Star-Sports-2-HD.in" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfBjtFcvfqQja2bWLNRdTK7VylZ_iaVD8Veo3xC4-LsGQ.png" group-title="IN/PK | Sports",IN: STAR SPORTS 2 HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-wfN3cKyv2CknutvvAWTzApAahA2B5CT18Q6tEZAsXpg/ts
