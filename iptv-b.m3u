@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="370" tvg-id="RTV.bd" tvg-name="RTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-bd.png" group-title="BD | Bangla",RTV HD
+#EXTINF:-1 xui-id="370" tvg-id="RTV.bd" tvg-name="RTV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9c/RTV_HD_2021.png/revision/latest/scale-to-width-down/1554?cb=20231226043939" group-title="BD | Bangla",RTV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-y9ImWmgeyNCSLlrV3LUM7js0oYldkrbkP7_DSIpNdCb/ts
-#EXTINF:-1 xui-id="369" tvg-id="NTVCH" tvg-name="NTV HD" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2HZAr0FsuFsUPzNXznEBlUB.png" group-title="BD | Bangla",NTV HD
+#EXTINF:-1 xui-id="369" tvg-id="NTVCH" tvg-name="NTV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/58/NTV_logo_with_slogan_2003.png/revision/latest?cb=20211007104025" group-title="BD | Bangla",NTV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-z3a412DSKCWnxW0GGM9gRFHkLIoCPIV1BtzdR0UTS_p/ts
-#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024August/somoy-tv-news-transmission-210824-1724249379.jpg" group-title="BD | Bangla",SOMOY TV HD
+#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/1200px-SOMOY_TV_Logo.svg.png" group-title="BD | Bangla",SOMOY TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-4tRQJG272V_1TKMP57EfSelfoG_sn57jnzMixGVqj5B/ts
 #EXTINF:-1 xui-id="18816" tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="BD | Bangla",JAMUNA TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-9_RTwp8mhAZvOf8OJti_jaT9JKr5eSBHHJ9G40bobWw/ts
@@ -26,9 +26,9 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-50Ip7u50_S8ZrWDWL0ToPn
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-9gON2F_jgZ03-1gh9QE-L9GKwnaeWoL-i4iVQCw3rTA/ts
 #EXTINF:-1 xui-id="363" tvg-id="Channel.I.Bangla.dk" tvg-name="CHANNEL I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="BD | Bangla",CHANNEL I HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--OsXcpiywIeu6RE0WtXb1pIMgJwl-p3KOkAKmjqUh_T/ts
-#EXTINF:-1 xui-id="357" tvg-id="BTVNational.bd" tvg-name="BTV NATIONAL HD" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2GKwSUgXx855qf_Snx24brR3tC4_XxPOUyX65AByKN7Dg.png" group-title="BD | Bangla",BTV NATIONAL HD
+#EXTINF:-1 xui-id="357" tvg-id="BTVNational.bd" tvg-name="BTV NATIONAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" group-title="BD | Bangla",BTV NATIONAL HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1eHhfZIzM7Ar0JQAMlC1Ao-1s1H3LeZwBBWVQ1DUf6k/ts
-#EXTINF:-1 xui-id="358" tvg-id="" tvg-name="BTV NEWS" tvg-logo="https://yt3.googleusercontent.com/kgfiKVhCbQ9Kezq8Ce2NvpxXtLfpf3RJbSrZFNwy51PzlHujPDt7dM9xZLzD5_hLDgcO6IwPNA=s160-c-k-c0x00ffffff-no-rj" group-title="BD | Bangla",BTV NEWS
+#EXTINF:-1 xui-id="358" tvg-id="" tvg-name="BTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/BTV_News_Logo.png/396px-BTV_News_Logo.png" group-title="BD | Bangla",BTV NEWS
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-3X4V3Z2FIYtFSRUKVYwBXHtfhmZ6uRDqRwIvOFcHky4/ts
 #EXTINF:-1 group-title="BD | Bangla" tvg-id="BTVChittagong.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png",BTV CHATTOGRAM
 https://www.btvlive.gov.bd/live/undefined/US/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
