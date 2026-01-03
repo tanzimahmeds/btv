@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="370" tvg-id="" tvg-name="RTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-bd.png" group-title="BD | Bangla",RTV HD
+#EXTINF:-1 xui-id="370" tvg-id="RTV.bd" tvg-name="RTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-bd.png" group-title="BD | Bangla",RTV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-y9ImWmgeyNCSLlrV3LUM7js0oYldkrbkP7_DSIpNdCb/ts
 #EXTINF:-1 xui-id="369" tvg-id="NTVCH" tvg-name="NTV HD" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2HZAr0FsuFsUPzNXznEBlUB.png" group-title="BD | Bangla",NTV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-z3a412DSKCWnxW0GGM9gRFHkLIoCPIV1BtzdR0UTS_p/ts
@@ -22,17 +22,17 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-x54IN8fTJHEjXG20GTjQbA
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-5e7xYvDKD7qQOISsEpcCLbYoOgzoxbBxU_8IF7Rk2JH/ts
 #EXTINF:-1 xui-id="368" tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mDEhLlkKGh9TAaQfSBVFMdCwO_LbKMWtqg&s" group-title="BD | Bangla",BANGLA VISION HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-50Ip7u50_S8ZrWDWL0ToPnjNU34NXZNX5COWDAFPGpz/ts
-#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJE_GbcENfZPhidlq6-PzBG37_TfaLrqXexaBNUTlIEjY6fKoRv7Ny4SQ56QyDLmMj4Y&usqp=CAU" group-title="BD | Bangla",EKATTOR TV HD
+#EXTINF:-1 xui-id="364" tvg-id="EkattorTV.bd" tvg-name="EKATTOR TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJE_GbcENfZPhidlq6-PzBG37_TfaLrqXexaBNUTlIEjY6fKoRv7Ny4SQ56QyDLmMj4Y&usqp=CAU" group-title="BD | Bangla",EKATTOR TV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-9gON2F_jgZ03-1gh9QE-L9GKwnaeWoL-i4iVQCw3rTA/ts
-#EXTINF:-1 xui-id="363" tvg-id="CHANI" tvg-name="CHANNEL I HD" tvg-logo="http://www.tmsimg.com/assets/s90683_ll_h3_aa.png" group-title="BD | Bangla",CHANNEL I HD
+#EXTINF:-1 xui-id="363" tvg-id="ChannelI.bd" tvg-name="CHANNEL I HD" tvg-logo="http://www.tmsimg.com/assets/s90683_ll_h3_aa.png" group-title="BD | Bangla",CHANNEL I HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--OsXcpiywIeu6RE0WtXb1pIMgJwl-p3KOkAKmjqUh_T/ts
-#EXTINF:-1 xui-id="357" tvg-id="" tvg-name="BTV NATIONAL HD" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2GKwSUgXx855qf_Snx24brR3tC4_XxPOUyX65AByKN7Dg.png" group-title="BD | Bangla",BTV NATIONAL HD
+#EXTINF:-1 xui-id="357" tvg-id="BTVNational.bd" tvg-name="BTV NATIONAL HD" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2GKwSUgXx855qf_Snx24brR3tC4_XxPOUyX65AByKN7Dg.png" group-title="BD | Bangla",BTV NATIONAL HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1eHhfZIzM7Ar0JQAMlC1Ao-1s1H3LeZwBBWVQ1DUf6k/ts
 #EXTINF:-1 xui-id="358" tvg-id="" tvg-name="BTV NEWS" tvg-logo="https://yt3.googleusercontent.com/kgfiKVhCbQ9Kezq8Ce2NvpxXtLfpf3RJbSrZFNwy51PzlHujPDt7dM9xZLzD5_hLDgcO6IwPNA=s160-c-k-c0x00ffffff-no-rj" group-title="BD | Bangla",BTV NEWS
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-3X4V3Z2FIYtFSRUKVYwBXHtfhmZ6uRDqRwIvOFcHky4/ts
-#EXTINF:-1 group-title="BD | Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png",BTV CHATTOGRAM
+#EXTINF:-1 group-title="BD | Bangla" tvg-id="BTVChittagong.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/500px-BTV_Chattogram_Logo.svg.png",BTV CHATTOGRAM
 https://www.btvlive.gov.bd/live/undefined/US/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
-#EXTINF:-1 group-title="BD | Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png",SANGSAD BD TV
+#EXTINF:-1 group-title="BD | Bangla" tvg-id="SangsadTV.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/500px-Sangsad_Television_Emblem.svg.png",SANGSAD BD TV
 https://www.btvlive.gov.bd/live/undefined/US/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 xui-id="362" tvg-id="" tvg-name="ATN NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_news_bd.png" group-title="BD | Bangla",ATN NEWS HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-yFOkZ3gq0Y41wVWCPWUKyt4wayLsazA4rUEzwZAOZhw/ts
