@@ -60,6 +60,8 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-9c_7DdXH0-ueOK1NGsfG9a
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--GYVOQ969gsyL-0YU3K_dQYnOPxNVC-fIQeL8AqFraQ/ts
 #EXTINF:-1 xui-id="966" tvg-id="Nat Geo Wild HD.in" tvg-name="NAT GEO BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZNS4zmZCScerXc1qRPT1N4hkFXJHqLLiGA&s" group-title="BD | Bangla",NAT GEO BANGLA
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-0lFw3xWRlR_6pD8tAmTv5iJFHTH9dr0BT0GolTnAG-e/ts
+#EXTINF:-1 xui-id="145383" tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O1ejjJKEgkoqRJwQLvM0GG2XTriUykfKVw&s" group-title="BD | Bangla",DISCOVERY BANGLA
+http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1HVasrNuNMJPRBMopHBtrSX7aimTY37zp-ZLYMR1PZd/ts
 #EXTINF:-1 xui-id="404" tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="IN: SONY SPORTS TEN 1 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzsobJyEHRvk5_0jS7-8PmLRg.png" group-title="Sports | Asian",IN: SONY SPORTS TEN 1 HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-zKfHNhzZEWkzbegLPZZZrONGki3xjQwGcgHJxCUqSd7/ts
 #EXTINF:-1 xui-id="407" tvg-id="SONY SPORTS TEN 5 HD.in" tvg-name="IN: SONY SPORTS TEN 5 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzs7x3uGjg0lWGA_MyLBmqcFg.png" group-title="Sports | Asian",IN: SONY SPORTS TEN 5 HD
@@ -268,8 +270,7 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-7xpmWvyEcuUUGeWPLlYvvm
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-8231utb7LIYSNT1sTw8tzhpGemRlkkdkbl2ucY1how7/ts
 #EXTINF:-1 xui-id="1662" tvg-id="" tvg-name="NASA TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa-tv-us.svg" group-title="Info & Documentaries",NASA TV
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-3K2V4iN0OxfOPQ2Mb-kfKHsXP-pGB5mrjK1Hr_073a7/ts
-#EXTINF:-1 xui-id="966" tvg-id="Nat Geo Wild HD.in" tvg-name="NAT GEO BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZNS4zmZCScerXc1qRPT1N4hkFXJHqLLiGA&s" group-title="Info & Documentaries",NAT GEO BANGLA
-http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-0lFw3xWRlR_6pD8tAmTv5iJFHTH9dr0BT0GolTnAG-e/ts
+
 #EXTINF:-1 xui-id="18673" tvg-id="" tvg-name="24 NEWS" tvg-logo="" group-title="NEWS | International",24 NEWS
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-2-9uXLdTFHKycFzdUg0bJaVHrwHQSNiQUTQFhs2pUnW/ts
 #EXTINF:-1 xui-id="18670" tvg-id="" tvg-name="Duniya News" tvg-logo="" group-title="NEWS | International",Duniya News
@@ -392,8 +393,6 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1TdGtqgyzTx6wLOtTdEH02
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-4ow3Dy8KfkO2PzEzVpyxtB2Ly0BZFFTKNZQHt2IkBA2/ts
 #EXTINF:-1 xui-id="967" tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="http://dvltv.cc:80/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEMNm0PYShIJqWxdtamO4aCFLPZjUjRmUxGP9iUquCAoic6lMNS-3GaWdSq07uHdoY.png" group-title="Sports | Football",REAL MADRID TV
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-y98X7T9ItiOHrH6nCnVAhrCXjKa5aZjz11ztbrTZsvy/ts
-#EXTINF:-1 xui-id="984" tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_860,h_573/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="Info & Documentaries",RED BULL TV
-http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--UyC-5u_vyLBWZfF9OGyEu7Uqhs4y9DLEj4Ln2LioMk/ts
 #EXTINF:-1 xui-id="552" tvg-id="" tvg-name="ACTION HOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&s" group-title="Hollywood Movies",ACTION HOLLYWOOD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-7qZdnnImEyEFiuI0gc2Yrk_7oCOeyZRiEltM5avjmTo/ts
 #EXTINF:-1 xui-id="135044" tvg-id="" tvg-name="Zoo Moo" tvg-logo="" group-title="Kids | Asian",Zoo Moo
@@ -503,8 +502,6 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--jJvKdzBqrgM2isquODGNO
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--jJvKdzBqrgM2isquODGNMGxgF9GJCsc9ZXTp1l__Ul/ts
 #EXTINF:-1 xui-id="145283" tvg-id="" tvg-name="TRACE Sport Stars HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-laFieoIhCUVMy_Rf9cSVT2DcPIhC2TSWng&s" group-title="Sports | Football",TRACE Sport Stars HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1HVasrNuNMJPRBMopHBtrTOjAhlN0SuXVuAnI7jWWuc/ts
-#EXTINF:-1 xui-id="145383" tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O1ejjJKEgkoqRJwQLvM0GG2XTriUykfKVw&s" group-title="Info & Documentaries",DISCOVERY BANGLA
-http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1HVasrNuNMJPRBMopHBtrSX7aimTY37zp-ZLYMR1PZd/ts
 #EXTINF:-1 xui-id="145424" tvg-id="" tvg-name="#1 SPORTS | LIVE ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkK4sbozQ_-PfZVR0j6g3Ip8kBIrCUG5MqQw&s" group-title="Cricket | Live Event Only",#1 SPORTS | LIVE ONLY
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-1HVasrNuNMJPRBMopHBtrRDI3B9qOq_4eRNLFBZE_22/ts
 #EXTINF:-1 xui-id="145425" tvg-id="" tvg-name="#2 SPORTS | LIVE ONLY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkK4sbozQ_-PfZVR0j6g3Ip8kBIrCUG5MqQw&s" group-title="Cricket | Live Event Only",#2 SPORTS | LIVE ONLY
@@ -529,8 +526,6 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-26cCTo3NdgE42GBvsY4wfn
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-yY82O_YdtvgBceE6n8DudYpMnk8MYrOc480GDBQkCVt/ts
 #EXTINF:-1 xui-id="142319" tvg-id="Colors Bangla HD.in" tvg-name="COLORS BANGLA" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSce_L_yrl1TuH6PIvhiIpV5fE71_ckHIpwzUitFDTfTv9w.png" group-title="IND | Kolkata",COLORS BANGLA
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-_PLmC0t_wVJqw_MFDELRrF-xuapt1ojtK6JpizjITGK/ts
-#EXTINF:-1 xui-id="69473" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://yt3.googleusercontent.com/54prTx28YpPxSpk_PfJGuOfQgcZbNdvbfk0adGePrAvINO4Mo9_bw3j-J4seXn6hNGuMr1ck=s900-c-k-c0x00ffffff-no-rj" group-title="BD | Bangla",JAMUNA TV
-http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx--ASFIcqQLu7xfBe_lChfA11hrw_Z5Z8nBiZBz3TOQvB/ts
 #EXTINF:-1 xui-id="94584" tvg-id="" tvg-name="IN: EUROSPORT" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfc-aYmpNgCrXRDJW4BWmUda0tI582CWnZVSnD15Ddkzw.png" group-title="Sports | Asian",IN: EUROSPORT
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-2HTPnJplW7XaV6KqDQDxDxSsnmsPpIStcx7Fo2LR2K7/ts
 #EXTINF:-1 xui-id="3826" tvg-id="" tvg-name="IN: DD SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfqltEO3dT_xIJgucHUKE9O3xzqBMyHpP6I55YJuqzEpA.png" group-title="Sports | Asian",IN: DD SPORTS HD
