@@ -466,3 +466,5 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKE
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKEmb_STQf1QNBm1AT9QWwlN/ts
 #EXTINF:-1 xui-id="175541" tvg-id="" tvg-name="SUPER SMASH T20 LEAGUE" tvg-logo="" group-title="Cricket | Live Event Only",SUPER SMASH T20 LEAGUE
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKE6xzcjpKVZzWAmrBOTG1GY/ts
+#EXTINF:-1 xui-id="175541" tvg-id="" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/fxx.png" group-title="Tanzim",FXX
+http://84.17.40.25/FXX/index.m3u8
