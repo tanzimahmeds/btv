@@ -476,16 +476,6 @@ http://cord-cutter.net:8080/rdwashington7@verizon.net/rdwashington7@2023/9816
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/hbox.png" group-title="Tanzim",HBO Xtreme Español
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKHCG5GcdchvUWeUuQSMNI63/ts
 
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt1-se.png",SVT 1
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2311
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",SVT 2
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2312
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv3-se.png",TV 3
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2318
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://github.com/tanzimahmeds/btv/blob/main/3sp.png?raw=true",TV 3 SPORT
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2319
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-se.png",TV 4
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2320
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-fakta-se.png",TV 4 FAKTA
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2321
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-film-se.png",TV 4 FILM
@@ -494,30 +484,10 @@ http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2322
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2323
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv4-sportkanalen-se.png",TV 4 SPORTKANALEN
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2310
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://i.ibb.co/TKQ7t35/Kanal5nylogga.png",KANAL 5
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2298
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv6-se.png",TV 6
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2324
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/sjuan-se.png",SJUAN
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2309
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv8-se.png",TV 8
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2325
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://i.ibb.co/f0z9R7t/Kanal9nylogga.png",KANAL 9
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2299
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",KANAL 10
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2296
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv10-se.png",TV 10
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2326
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://i.ibb.co/qrcVsJ2/Kanal-11-Logo-2024-svg.png",KANAL 11
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2297
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/tv12-se.png",TV 12
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2327
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/eurosport-1-dk.png",EUROSPORT 1
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2263
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/denmark/eurosport-2-dk.png",EUROSPORT 2
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2264
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",BOOMERANG
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2274
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",C MORE SPORT 1
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/37677
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/c-more-first-no.png",C MORE FIRST
@@ -542,28 +512,8 @@ http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2283
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2284
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",C MORE STARS
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2285
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",CARTOON NETWORK
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2286
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",DISNEY CHANNEL
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2291
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",DISNEY JR
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2292
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",DISNEY XD
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2293
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",NICK JR
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2303
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",NICKELODEON
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2304
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt2-se.png",NICKTOONS
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2305
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/SF-Kanalen.png",SF-KANALEN
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2308
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt24-se.png",SVT 24/B
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2313
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt-barn-se.png",SVT BARN
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2314
-#EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/kunskapskanalen-se.png",KUNSKAPSKANALEN
-http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2315
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-se.png",VIASAT SPORT
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2265
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-extra-se.png",VIASAT SPORT EXTRA
