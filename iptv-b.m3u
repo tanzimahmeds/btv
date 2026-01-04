@@ -558,12 +558,156 @@ http://91.218.51.169:2095/yNR9xHms/gFajQaj/952994
 http://91.218.51.169:2095/yNR9xHms/gFajQaj/31644
 #EXTINF:-1 tvg-id="viasatsportvinter.se" tvg-name="V Sport Vinter FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-vinter-se.png" group-title="Sweden",V Sport Vinter FHD SE
 http://91.218.51.169:2095/yNR9xHms/gFajQaj/26514
-#EXTINF:-1 tvg-id="" tvg-name="N1 Play The Simpsons FHD SE" tvg-logo="https://i.ibb.co/xtXv2YNg/The-Simpsons.png" group-title="Sweden",N1 Play The Simpsons FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/1154314
 
-#EXTINF:-1 tvg-id="" tvg-name="N1 Play Family Guy FHD SE" tvg-logo="https://i.ibb.co/WBwtbph/Family-Guy.png" group-title="Sweden",N1 Play Family Guy FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/1159377
-#EXTINF:-1 tvg-id="" tvg-name="N1 Play Rick and Morty FHD SE" tvg-logo="https://i.ibb.co/5M7CdNR/Rick-and-Morty.png" group-title="Sweden",N1 Play Rick and Morty FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/1159369
-#EXTINF:-1 tvg-id="" tvg-name="N1 Play South Park FHD SE" tvg-logo="https://i.ibb.co/WpNVzn1/South-Park.png" group-title="Sweden",N1 Play South Park FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/1000091
+
+#EXTINF:-1 group-title="SV | Svenska",SVT 1
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2311
+#EXTINF:-1 group-title="SV | Svenska",SVT 2
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2312
+#EXTINF:-1 group-title="SV | Svenska",TV 3
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2318
+#EXTINF:-1 group-title="SV | Svenska",TV 3 SPORT
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2319
+#EXTINF:-1 group-title="SV | Svenska",TV 4
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2320
+#EXTINF:-1 group-title="SV | Svenska",TV 4 FAKTA
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2321
+#EXTINF:-1 group-title="SV | Svenska",TV 4 FILM
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2322
+#EXTINF:-1 group-title="SV | Svenska",TV 4 GOLD
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2323
+#EXTINF:-1 group-title="SV | Svenska",KANAL 5
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2298
+#EXTINF:-1 group-title="SV | Svenska",TV 6
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2324
+#EXTINF:-1 group-title="SV | Svenska",SJUAN
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2309
+#EXTINF:-1 group-title="SV | Svenska",TV 8
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2325
+#EXTINF:-1 group-title="SV | Svenska",KANAL 9
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2299
+#EXTINF:-1 group-title="SV | Svenska",SWE: KANAL 10
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2296
+#EXTINF:-1 group-title="SV | Svenska",SWE: TV 10
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2326
+#EXTINF:-1 group-title="SV | Svenska",SWE: KANAL 11
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2297
+#EXTINF:-1 group-title="SV | Svenska",SWE: TV 12
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2327
+#EXTINF:-1 group-title="SV | Svenska",SWE: EUROSPORT 1
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2263
+#EXTINF:-1 group-title="SV | Svenska",SWE: EUROSPORT 2
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2264
+#EXTINF:-1 group-title="SV | Svenska",SWE: VIASAT SPORT
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2265
+#EXTINF:-1 group-title="SV | Svenska",SWE: VIASAT SPORT EXTRA
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2266
+#EXTINF:-1 group-title="SV | Svenska",SWE: VIASAT SPORT PREMIUM
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2267
+#EXTINF:-1 group-title="SV | Svenska",SWE: VIASAT FOTBOLL
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2268
+#EXTINF:-1 group-title="SV | Svenska",SWE: VIASAT GOLF
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2269
+#EXTINF:-1 group-title="SV | Svenska",SWE: VIASAT MOTOR
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2270
+#EXTINF:-1 group-title="SV | Svenska",SWE: ANIMAL PLANET
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2271
+#EXTINF:-1 group-title="SV | Svenska",SWE: BBC BRIT
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2272
+#EXTINF:-1 group-title="SV | Svenska",SWE: BBC EARTH
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2273
+#EXTINF:-1 group-title="SV | Svenska",SWE: BOOMERANG
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2274
+#EXTINF:-1 group-title="SV | Svenska",SWE: C More Sport 1
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/37677
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE FIRST
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2275
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE FOTBOLL
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2276
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE HITS
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2277
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE HOCKEY
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2278
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE LIVE
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2279
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE LIVE 2
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2280
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE LIVE 3
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2281
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE LIVE 4
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2282
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE LIVE 5
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2283
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE SERIES
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2284
+#EXTINF:-1 group-title="SV | Svenska",SWE: C MORE STARS
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2285
+#EXTINF:-1 group-title="SV | Svenska",SWE: CARTOON NETWORK
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2286
+#EXTINF:-1 group-title="SV | Svenska",DISCOVERY CHANNEL
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2287
+#EXTINF:-1 group-title="SV | Svenska",DISCOVERY INVESTIGATION
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2288
+#EXTINF:-1 group-title="SV | Svenska",DISCOVERY SCIENCE
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2289
+#EXTINF:-1 group-title="SV | Svenska",DISCOVERY WORLD
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2290
+#EXTINF:-1 group-title="SV | Svenska",DISNEY CHANNEL
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2291
+#EXTINF:-1 group-title="SV | Svenska",DISNEY JR
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2292
+#EXTINF:-1 group-title="SV | Svenska",DISNEY XD
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2293
+#EXTINF:-1 group-title="SV | Svenska",H2
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2294
+#EXTINF:-1 group-title="SV | Svenska",HISTORY
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2295
+#EXTINF:-1 group-title="SV | Svenska",MTV
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2300
+#EXTINF:-1 group-title="SV | Svenska",NATIONAL GEOGRAPHIC
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2301
+#EXTINF:-1 group-title="SV | Svenska",NATIONAL GEOGRAPHIC WILD
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2302
+#EXTINF:-1 group-title="SV | Svenska",NICK JR
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2303
+#EXTINF:-1 group-title="SV | Svenska",NICKELODEON
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2304
+#EXTINF:-1 group-title="SV | Svenska",NICKTOONS
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2305
+#EXTINF:-1 group-title="SV | Svenska",ÖPPNA KANALEN STOCKHOLM
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2306
+#EXTINF:-1 group-title="SV | Svenska",SF-KANALEN
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2308
+#EXTINF:-1 group-title="SV | Svenska",SPORT KANALEN
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2310
+#EXTINF:-1 group-title="SV | Svenska",SVT 24/B
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2313
+#EXTINF:-1 group-title="SV | Svenska",SVT BARN
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2314
+#EXTINF:-1 group-title="SV | Svenska",SVT KUNSKAPSKANALEN
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2315
+#EXTINF:-1 group-title="SV | Svenska",TLC
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2316
+#EXTINF:-1 group-title="SV | Svenska",TRAVEL CHANNEL
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2317
+#EXTINF:-1 group-title="SV | Svenska",VH1
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2328
+#EXTINF:-1 group-title="SV | Svenska",VIASAT EXPLORE
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2329
+#EXTINF:-1 group-title="SV | Svenska",VIASAT FILM ACTION
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2330
+#EXTINF:-1 group-title="SV | Svenska",VIASAT FILM FAMILY
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2331
+#EXTINF:-1 group-title="SV | Svenska",VIASAT FILM PREMIERE
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2332
+#EXTINF:-1 group-title="SV | Svenska",VIASAT HISTORY
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2333
+#EXTINF:-1 group-title="SV | Svenska",VIASAT HOCKEY
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2334
+#EXTINF:-1 group-title="SV | Svenska",VIASAT JUL
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2335
+#EXTINF:-1 group-title="SV | Svenska",VIASAT NATURE
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2336
+#EXTINF:-1 group-title="SV | Svenska",VIASAT SERIES
+http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2337
+
