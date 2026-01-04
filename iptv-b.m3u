@@ -466,49 +466,15 @@ http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKE
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKEmb_STQf1QNBm1AT9QWwlN/ts
 #EXTINF:-1 xui-id="175541" tvg-id="" tvg-name="SUPER SMASH T20 LEAGUE" tvg-logo="" group-title="Cricket | Live Event Only",SUPER SMASH T20 LEAGUE
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKE6xzcjpKVZzWAmrBOTG1GY/ts
+
 #EXTINF:-1 xui-id="" tvg-id="" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/fxx.png" group-title="Tanzim",FXX
 http://84.17.40.25/FXX/index.m3u8
-#EXTINF:-1 xui-id="" tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/hbox.png" group-title="Tanzim",HBO Xtreme
+#EXTINF:-1 xui-id="" tvg-id="" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/tanzimahmeds/btv/refs/heads/main/hbox.png" group-title="Tanzim",HBO Xtreme Español
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-w1hxTYyoh5ilwDjEBEtHKHCG5GcdchvUWeUuQSMNI63/ts
-
-#EXTINF:-1 group-title="Tanzim" tvg-logo="",US HBO 
+#EXTINF:-1 group-title="Tanzim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO 
 http://cord-cutter.net:8080/rdwashington7@verizon.net/rdwashington7@2023/9264
-#EXTINF:-1 group-title="Tanzim" tvg-logo="",US HBO 2 (A)
+#EXTINF:-1 group-title="Tanzim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO 2
 http://cord-cutter.net:8080/rdwashington7@verizon.net/rdwashington7@2023/9816
-
-#EXTINF:-1 tvg-id="skyshowtime1.se" tvg-name="Sky ShowTime 1 FHD SE" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/sky-showtime-1-se.png" group-title="Sweden",Sky ShowTime 1 FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/236926
-#EXTINF:-1 tvg-id="skyshowtime2.se" tvg-name="Sky ShowTime 2 FHD SE" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/sky-showtime-2-se.png" group-title="Sweden",Sky ShowTime 2 FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/236923
-#EXTINF:-1 tvg-id="sfkanalen.se" tvg-name="SF-Kanalen FHD SE" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/SF-Kanalen.png" group-title="Sweden",SF-Kanalen FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/335919
-#EXTINF:-1 tvg-id="" tvg-name="MTV Aitio HD SE [Multi-Sub]" tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/logos/MTV_Aitio_Logo_2compressed.svg.png" group-title="Sweden",MTV Aitio HD SE [Multi-Sub]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/46257
-#EXTINF:-1 tvg-id="viasatfilmaction.se" tvg-name="V Film Action FHD SE [Multi-Sub]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-film-action-se.png" group-title="Sweden",V Film Action FHD SE [Multi-Sub]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/33787
-#EXTINF:-1 tvg-id="viasatfilmhits.se" tvg-name="V Film Hits FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-film-hits-se.png" group-title="Sweden",V Film Hits FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/33788
-#EXTINF:-1 tvg-id="viasatfilmpremiere.se" tvg-name="V Film Premiere FHD SE [Multi-Sub]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-film-premiere-se.png" group-title="Sweden",V Film Premiere FHD SE [Multi-Sub]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/33789
-#EXTINF:-1 tvg-id="viasatfilmfamily.se" tvg-name="V Film Family HD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-film-family-se.png" group-title="Sweden",V Film Family HD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/33579
-#EXTINF:-1 tvg-id="viasatseries.se" tvg-name="V Series FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-series-no.png" group-title="Sweden",V Series FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/33808
-#EXTINF:-1 tvg-id="viasatexplore.se" tvg-name="Viasat Explorer FHD SE [Multi-Sub]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-explore-no.png" group-title="Sweden",Viasat Explorer FHD SE [Multi-Sub]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/8221
-#EXTINF:-1 tvg-id="viasatnature.se" tvg-name="Viasat Nature FHD SE [Multi-Sub]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Sweden",Viasat Nature FHD SE [Multi-Sub]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/36299
-#EXTINF:-1 tvg-id="viaplaysport.se" tvg-name="Viaplay Sport FHD SE" tvg-logo="https://i.ibb.co/67MqRw11/viaplay-sport.png" group-title="Sweden",Viaplay Sport FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/2122834
-#EXTINF:-1 tvg-id="vsportfotboll.se" tvg-name="V Sport Fotboll FHD SE [Viaplay]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-football-se.png" group-title="Sweden",V Sport Fotboll FHD SE [Viaplay]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/953007
-#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="V Sport Premium FHD SE [Viaplay]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-premium-se.png" group-title="Sweden",V Sport Premium FHD SE [Viaplay]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/952994
-#EXTINF:-1 tvg-id="viasatsportultra.se" tvg-name="V Sport Ultra 4K SE [Only On 4K Devices]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/sweden/v-sport-ultrahd-se.png" group-title="Sweden",V Sport Ultra 4K SE [Only On 4K Devices]
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/31644
-#EXTINF:-1 tvg-id="viasatsportvinter.se" tvg-name="V Sport Vinter FHD SE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/v-sport-vinter-se.png" group-title="Sweden",V Sport Vinter FHD SE
-http://91.218.51.169:2095/yNR9xHms/gFajQaj/26514
-
 
 #EXTINF:-1 group-title="SV | Svenska" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/sweden/svt1-se.png",SVT 1
 http://vipgpnoss.top:8080/VIP0174173973029793/6m7u58kgxs8p/2311
