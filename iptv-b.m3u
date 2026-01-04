@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="24589" tvg-id="ATNBANP" tvg-name="ATN BANGLA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1200px-Logo_of_ATN_Bangla.svg.png" group-title="BD | Bangla",ATN BANGLA HD
+#EXTINF:-1 xui-id="24589" tvg-id="ATN.Bangla.dk" tvg-name="ATN BANGLA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/1200px-Logo_of_ATN_Bangla.svg.png" group-title="BD | Bangla",ATN BANGLA HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-5z_8_GdIIspFBdMwKDGOmYEBm8u3YjkWImIx14Sfgc1/ts
-#EXTINF:-1 xui-id="362" tvg-id="" tvg-name="ATN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/2458px-ATN_News_logo.svg.png" group-title="BD | Bangla",ATN NEWS HD
+#EXTINF:-1 xui-id="362" tvg-id="ATN.News.dk" tvg-name="ATN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/2458px-ATN_News_logo.svg.png" group-title="BD | Bangla",ATN NEWS HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-yFOkZ3gq0Y41wVWCPWUKyt4wayLsazA4rUEzwZAOZhw/ts
 #EXTINF:-1 xui-id="370" tvg-id="RTV.bd" tvg-name="RTV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9c/RTV_HD_2021.png/revision/latest/scale-to-width-down/1554?cb=20231226043939" group-title="BD | Bangla",RTV HD
 http://starter.nvisionbd.net:80/play/D73IBTOMmIUAv04O8Ajx-y9ImWmgeyNCSLlrV3LUM7js0oYldkrbkP7_DSIpNdCb/ts
